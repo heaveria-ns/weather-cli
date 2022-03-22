@@ -1,5 +1,6 @@
 .env
 *.js
+*.js.map
 
 # Project exclude paths
 /Commands/exit.js.map
