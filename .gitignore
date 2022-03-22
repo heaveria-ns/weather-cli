@@ -1,0 +1,10 @@
+.env
+*.js
+
+# Project exclude paths
+/Commands/exit.js.map
+/Commands/get-weather.js.map
+/Commands/menu_handler.js.map
+/Enums/ascii-art.js.map
+/node_modules/
+/app.js.map
